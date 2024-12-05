@@ -149,10 +149,12 @@ margin-top: 40px;
 }
 .about .image{
 width: 155%;
+max-height: 400px;
 overflow: hidden;
 }
 .about .image img{
 width: 100%;
+height: 100%;
 }
 .about main{
 
@@ -164,8 +166,8 @@ width: 100%;
  color: var(--second-color);
  font-size: 14.5px;
  letter-spacing: .6px;
- line-height: 1.4;
- font-weight: 100;
+ line-height: 1.8;
+ font-weight: 300;
 }
 .about main .button{
     background-color: transparent;
